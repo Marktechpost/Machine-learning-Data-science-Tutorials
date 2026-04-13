@@ -2,6 +2,8 @@
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
 
+▶ A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Scientific%20Computing/physicsnemo_darcy_flow_fno_pinn_surrogate_modeling_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/)
+
 ▶ An Implementation Guide to Building a DuckDB-Python Analytics Pipeline with SQL, DataFrames, Parquet, UDFs, and Performance Profiling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/duckdb_python_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/)
 
 ▶ An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-Efficient Generation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/nvidia_kvpress_long_context_kv_cache_compression_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/09/an-end-to-end-coding-guide-to-nvidia-kvpress-for-long-context-llm-inference-kv-cache-compression-and-memory-efficient-generation/)
