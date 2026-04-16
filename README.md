@@ -2,6 +2,8 @@
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
 
+▶ Building Transformer-Based NQS for Frustrated Spin Systems with NetKet [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/transformer_nqs_netket_j1j2_vmc_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/16/transformer-nqs-netket-j1j2-guide/)
+
 ▶ A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Scientific%20Computing/physicsnemo_darcy_flow_fno_pinn_surrogate_modeling_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/)
 
 ▶ An Implementation Guide to Building a DuckDB-Python Analytics Pipeline with SQL, DataFrames, Parquet, UDFs, and Performance Profiling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/duckdb_python_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/)
