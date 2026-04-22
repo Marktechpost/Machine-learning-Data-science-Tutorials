@@ -2,6 +2,8 @@
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
 
+▶ A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End Training Workflows [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/equinox_training_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/)
+
 ▶ A Coding Implementation to Build a Conditional Bayesian Hyperparameter Optimization Pipeline with Hyperopt, TPE, and Early Stopping [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/hyperopt_conditional_tpe_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/21/a-coding-implementation-to-build-a-conditional-bayesian-hyperparameter-optimization-pipeline-with-hyperopt-tpe-and-early-stopping/)
 
 ▶ Building Transformer-Based NQS for Frustrated Spin Systems with NetKet [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/transformer_nqs_netket_j1j2_vmc_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/16/transformer-nqs-netket-j1j2-guide/)
