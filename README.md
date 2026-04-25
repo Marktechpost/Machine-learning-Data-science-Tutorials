@@ -2,6 +2,8 @@
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
 
+▶ A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/microsoft_openmementos_parsing_and_compression_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-microsofts-openmementos-with-trace-structure-analysis-context-compression-and-fine-tuning-data-preparation/)
+
 ▶ A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/openmythos_recurrent_depth_transformer_depth_extrapolation_tutorial_Markechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/)
 
 ▶ A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End Training Workflows [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/equinox_training_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/)
