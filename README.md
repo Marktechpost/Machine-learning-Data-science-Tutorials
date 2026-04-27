@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ The LoRA Assumption That Breaks in Production [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/LoRA_Assumption.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/)
+
 ▶ How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/budoux_multilingual_text_wrapping_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/)
 
 ▶ A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/datashader_massive_data_visualization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/25/a-coding-tutorial-on-datashader-on-rendering-massive-datasets-with-high-performance-python-visual-analytics/)
