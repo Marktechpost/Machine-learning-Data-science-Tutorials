@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/openai_privacy_filter_pii_redaction_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/29/step-by-step-guide-to-build-a-complete-pii-detection-and-redaction-pipeline-with-openai-privacy-filter/)
+
 ▶ A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/parsebench_document_parsing_benchmarking_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/)
 
 ▶ The LoRA Assumption That Breaks in Production [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/LoRA_Assumption.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/)
