@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/meg_brain_decoding_neuralset_cnn_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/)
+
 ▶ Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/openai_privacy_filter_pii_redaction_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/29/step-by-step-guide-to-build-a-complete-pii-detection-and-redaction-pipeline-with-openai-privacy-filter/)
 
 ▶ A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/parsebench_document_parsing_benchmarking_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/)
