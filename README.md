@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/pandas_ta_classic_strategy_backtesting_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/11/how-to-build-technical-analysis-and-backtesting-workflow-with-pandas-ta-classic-strategy-signals-and-performance-metrics/)
+
 ▶ A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/survey_bias_correction_balance_methods_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/)
 
 ▶ How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/scanpy_pbmc3k_single_cell_rnaseq_analysis_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/)
