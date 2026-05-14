@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/cupy_gpu_computing_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/)
+
 ▶ How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/pandas_ta_classic_strategy_backtesting_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/11/how-to-build-technical-analysis-and-backtesting-workflow-with-pandas-ta-classic-strategy-signals-and-performance-metrics/)
 
 ▶ A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/survey_bias_correction_balance_methods_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/)
