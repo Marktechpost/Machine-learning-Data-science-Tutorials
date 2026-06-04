@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ Building a Semantic Search Engine and Open-Status Classifier over the ResearchMath-14k Dataset [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/semantic_research_math_explorer_embeddings_clustering_search_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/06/04/building-a-semantic-search-engine-and-open-status-classifier-over-the-researchmath-14k-dataset/)
+
 ▶ How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/iii_live_document_intelligence_backend_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/)
 
 ▶ Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Federated%20Learning/nvflare_fedavg_vs_fedprox_non_iid_cifar10_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/25/step-by-step-guide-to-build-and-compare-fedavg-and-fedprox-federated-learning-on-non-iid-cifar-10-with-nvidia-flare/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Federated%20Learning/nvflare_fedavg_vs_fedprox_non_iid_cifar10_Marktechpost.ipynb)
